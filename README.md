@@ -20,8 +20,8 @@ Backend and automation engineer with ~3 years of experience and an MSc in Cybers
 
 ### Featured projects
 
-**🛡️ SOAR-AI** &nbsp;·&nbsp; *Python · LLM · n8n*
-An LLM-powered security-automation tool: ingests findings through APIs, normalises them, and classifies each one (critical / review / likely noise) with a short explanation and a suggested action, the kind of manual triage work a SOAR removes. *Work in progress.*
+**🛡️ [SOAR-AI](https://github.com/jaruag/soar-ai)** &nbsp;·&nbsp; *Python · LLM · Trivy*
+An LLM-powered security-automation tool: ingests real vulnerability findings from a scanner (Trivy), normalises them, and classifies each one (critical / review / likely noise) with a reason and a suggested action, then prioritises them.
 
 *More projects coming soon.*
 
